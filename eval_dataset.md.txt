@@ -1,0 +1,12 @@
+Case 1 环境科学：土壤重金属修复（完整标准摘要）
+Soil heavy‑metal pollution threatens crop safety in agricultural regions. This study explores the remediation effect of biochar derived from rice husk on cadmium‑contaminated farmland soil. A series of pot planting experiments are carried out with different biochar application ratios. Experimental results indicate that appropriate biochar addition can reduce cadmium uptake by lettuce shoots. One main restriction is that the remediation performance varies greatly under different soil pH conditions.
+Case 2 食品科学：果蔬保鲜（完整标准摘要）
+Postharvest decay limits the shelf‑life of fresh blueberries. This research investigates the preservation effect of chitosan edible coating combined with tea polyphenols. Physiological indicators including weight loss rate and fruit firmness are measured during storage. The composite coating effectively inhibits mold growth and extends storage time. The disadvantage is that high concentration coating will cause slight surface discoloration of fruit.
+Case 3 海洋生态学（仅简短实验片段，无完整结论与局限）
+Field sampling surveys were implemented in four coastal tidal zones. Phytoplankton community composition and water salinity parameters were recorded in each sampling station.
+Case 4 材料化学，混入无关噪声文本
+Some random meeting notes, ignore this paragraph completely. In this research, sol‑gel method is adopted to prepare silica‑based anti‑corrosion coating. Blah‑blah marketing demo text. Electrochemical corrosion tests prove that the coating can improve the anti‑rust capacity of carbon‑steel substrates.
+Case 5 公共卫生，信息残缺，文中没有提到研究局限性
+This paper discusses the correlation between indoor humidity and respiratory symptoms among primary‑school children. Questionnaire surveys and indoor environment monitoring data are adopted for statistical analysis.
+Case 6 水资源方向，长段论述文本
+Groundwater over‑extraction has induced continuous land subsidence in many plain areas. Long‑term groundwater level observation data can reflect the evolution trend of aquifer systems. Managed aquifer recharge has gradually become one promising measure to mitigate subsidence risk. However, recharge efficiency will be affected by aquifer permeability. Many existing field projects are restricted by local water‑source conditions, large‑scale popularization still faces practical obstacles.

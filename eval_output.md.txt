@@ -1,0 +1,88 @@
+Case1 土壤重金属修复
+```json
+{
+  "keywords": [
+    "soil heavy-metal pollution",
+    "biochar",
+    "rice husk biochar",
+    "cadmium-contaminated farmland soil",
+    "biochar remediation",
+    "cadmium uptake",
+    "lettuce shoots",
+    "biochar application ratio",
+    "soil pH",
+    "pot experiment"
+  ],
+  "research_object": "The remediation effect of rice husk-derived biochar on cadmium-contaminated agricultural farmland soil, with crop uptake (lettuce) as the evaluation carrier.",
+  "research_method": [
+    "Pot planting experiment (盆栽试验)",
+    "Controlled biochar application ratio design (多梯度施用量对比)",
+    "Cadmium uptake measurement in lettuce shoots (作物镉吸收量测定)"
+  ],
+  "main_conclusion": [
+    "Rice husk-derived biochar has a positive remediation effect on cadmium-contaminated farmland soil.",
+    "An appropriate biochar application ratio can effectively reduce cadmium uptake by lettuce shoots, mitigating cadmium accumulation in crops."
+  ],
+  "limitation": [
+    "Remediation performance of biochar varies greatly under different soil pH conditions, indicating poor universality across soil types.",
+    "Pot experiment scale may not fully reflect field-scale remediation effects (implicit limitation of pot-based study)."
+  ]
+}
+Case2 食品科学‑蓝莓保鲜
+{"keywords":["postharvest decay","shelf-life","fresh blueberry","chitosan edible coating","tea polyphenols","composite coating","weight loss rate","fruit firmness","mold growth","preservation","storage time","surface discoloration"],"research_object":"Shelf-life extension and preservation of fresh blueberries using chitosan edible coating combined with tea polyphenols","research_method":["Composite edible coating treatment (chitosan + tea polyphenols)","Concentration-gradient experimental design","Measurement of weight loss rate during storage","Measurement of fruit firmness during storage","Visual/physiological observation of mold growth","Storage-period preservation evaluation"],"main_conclusion":["The chitosan-tea polyphenol composite coating effectively inhibits mold growth on fresh blueberries","The composite coating extends the storage/shelf-life time of fresh blueberries","The coating demonstrates a clear preservative effect as shown by reduced weight loss and maintained fruit firmness"],"limitation":["High-concentration coating causes slight surface discoloration of the fruit"]}
+Case3 海洋生态学（短实验片段）
+{
+  "keywords": [
+    "phytoplankton community composition",
+    "water salinity",
+    "coastal tidal zone",
+    "field sampling survey",
+    "sampling station"
+  ],
+  "research_object": "四个沿海潮区（coastal tidal zone）内的浮游植物群落与水体盐度",
+  "research_method": [
+    "野外采样调查（field sampling survey）",
+    "站位逐点观测与参数记录（各采样站位的群落组成与盐度参数采集）"
+  ],
+  "main_conclusion": [
+    "在四个沿海潮区布设的采样站位中，系统获取了浮游植物群落组成与水体盐度参数数据",
+    "所采数据可用于反映不同潮区各站位浮游植物群落组成与盐度状况的对应关系"
+  ],
+  "limitation": []
+}
+Case4 材料化学‑带噪声干扰
+{
+  "keywords": [
+    "sol-gel method",
+    "silica-based anti-corrosion coating",
+    "electrochemical corrosion test",
+    "anti-rust capacity",
+    "carbon-steel substrate"
+  ],
+  "research_object": "硅基防腐涂层（silica-based anti-corrosion coating）及其对碳钢基体的防锈保护性能",
+  "research_method": [
+    "溶胶‑凝胶法（sol‑gel method）制备涂层",
+    "电化学腐蚀测试（electrochemical corrosion tests）评价防锈性能"
+  ],
+  "main_conclusion": [
+    "采用溶胶‑凝胶法可制备出硅基防腐涂层",
+    "电化学腐蚀测试证明该涂层能够提高碳钢基体的防锈能力"
+  ],
+  "limitation": []
+}
+Case5 公共卫生‑信息残缺无局限
+{
+  "keywords": ["indoor humidity", "respiratory symptoms", "primary-school children", "indoor environment monitoring", "questionnaire survey", "statistical analysis"],
+  "research_object": "小学生室内湿度与呼吸系统症状之间的相关性",
+  "research_method": ["问卷调查（Questionnaire survey）", "室内环境监测（Indoor environment monitoring）", "统计分析（Statistical analysis）"],
+  "main_conclusion": ["通过问卷与室内环境监测数据的统计分析，探讨室内湿度与小学生呼吸系统症状之间的相关性"],
+  "limitation": ["文中未明确提及具体局限性"]
+}
+Case6 水资源‑长文本论述
+{
+  "keywords": ["groundwater over-extraction", "land subsidence", "aquifer system", "managed aquifer recharge", "recharge efficiency", "aquifer permeability", "groundwater level observation"],
+  "research_object": "平原地区因地下水超采导致的持续地面沉降及含水层人工回灌（managed aquifer recharge）对沉降风险的缓解作用",
+  "research_method": ["长期地下水位观测数据分析（long-term groundwater level observation）", "含水层系统演化趋势分析", "野外场地项目（field projects）实践调研"],
+  "main_conclusion": ["地下水超采已在许多平原地区引发持续地面沉降", "长期地下水位观测数据能够反映含水层系统的演化趋势", "人工含水层回灌（MAR）已逐渐成为缓解地面沉降风险的一种有前景的措施", "回灌效率受含水层渗透性影响", "许多现有野外项目受当地水源条件限制，大规模推广仍面临实际障碍"],
+  "limitation": ["回灌效率受含水层渗透性制约", "现有野外回灌项目受当地水源条件限制", "大规模推广人工含水层回灌技术仍面临实际障碍"]
+}
